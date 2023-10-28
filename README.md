@@ -1,4 +1,4 @@
-An implementation of a feature based algorithm inspired by Hyndman's work with the FFORMS.<br>
+An implementation of a feature based algorithm inspired by Hyndman's work on the FFORMS.<br>
 https://robjhyndman.com/papers/fforms.pdf<br><br>
 
 The idea is to compute rolling features and use them to compute the t+h next points.<br>
